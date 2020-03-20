@@ -1,0 +1,18 @@
+Package: countem
+Title: Cycle through bar charts of your data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "David",
+           family = "Ranzolin",
+           role = c("aut", "cre"),
+           email = "daranzolin@gmail.com")
+Description: Sit back, relax, and cycle through bar charts of your data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    purrr,
+    htmlwidgets,
+    magrittr
+RoxygenNote: 7.1.0
